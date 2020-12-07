@@ -1,4 +1,4 @@
-# Social Network
+# Budget tracker
 Ronan Smith
 https://github.com/RonanSilasSmith/Budget-Tracker
 
