@@ -19,7 +19,7 @@ https://github.com/RonanSilasSmith/Budget-Tracker
 
  Once you have the repo copied, run npm install in the terminal, and then npm start. Once that's done you can open index.html from public
 
- Alternatively you could go to the deployed application at: (PLACEHOLDER)
+ Alternatively you could go to the deployed application at: https://git.heroku.com/mysterious-everglades-80133.git
 
 
 
