@@ -34,6 +34,7 @@ function uploadTransaction() {
 
     getAll.onsuccess = function (){
         if (getAll.result.length > 0) {
+            //for whatever reason this is not working, I can't find whatever makes this work in index.js
             fetch("/api/transaction", {
                 method: "POST",
                 body: JSON.stringify(transaction),
